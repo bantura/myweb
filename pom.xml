@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://54.221.27.3:8081/repository/ramesh-snapshot/</url>
+		    <url>http://172.31.33.140:8081/repository/ramesh-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.221.27.3:8081/repository/kishor-release/</url>
+		    <url>http://172.31.33.140:8081/repository/kishor-release/</url>
 		</repository>
   	</distributionManagement>
 	
