@@ -37,7 +37,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.221.27.3:8081/repository/kishor-releases/</url>
+		    <url>http://54.221.27.3:8081/repository/kishor-release/</url>
 		</repository>
   	</distributionManagement>
 	
