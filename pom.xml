@@ -32,7 +32,7 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://54.221.27.3:8081/repository/ramesh-snapshot/</url>
+		    <url>http://54.221.27.3:8081/repository/ramesh-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
