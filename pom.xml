@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://54.152.81.169:8081/repository/chinna-snapshot/</url>
+		    <url>http://172.31.47.115:8081/repository/chinna-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://54.152.81.169:8081/repository/ranjith-release/</url>
+		    <url>http://172.31.47.115:8081/repository/ranjith-release/</url>
 		</repository>
   	</distributionManagement>
 	
