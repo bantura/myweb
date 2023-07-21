@@ -37,7 +37,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://172.31.47.115:8081/repository/ranjith-release/</url>
+		    <url>http://54.227.189.17:8081:/repository/sample-release/</url>
 		</repository>
   	</distributionManagement>
 	
